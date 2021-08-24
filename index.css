@@ -1,0 +1,51 @@
+.container{
+           
+   /* background-color:violet; */
+   
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+.tet{
+    display: flex;
+}
+
+.nd-tet{
+    margin-left: auto;
+}
+.card{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    height: fit-content;
+}
+.card-1{
+    border: 2px solid rgb(153, 80, 80);
+    border-radius: 5px;
+    width: 120px;
+    height: 150px;
+    padding: 10px;
+}
+.box-1{
+    display: flex;
+    width: fit-content;
+}
+.box{
+    border: 1px solid rgb(37, 37, 48);
+    width: 8px;
+    height: 11px;
+}
+.box-tet{
+    padding-left: 4px;
+}
+i {
+    color: #e74c3c;
+    font-size: 140%;
+    font-weight: 900;
+}
+
+.box-p{
+    width: 400px;
+    margin: auto;
+    margin-top: 40px;
+}
